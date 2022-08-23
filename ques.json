@@ -1,0 +1,14 @@
+{
+	"Name a place where you would see lots of flowers":[["Florist",35],["Funeral",28],["Garden",13],["Wedding",8],["Park",5],["Church",3],["Greenhouse",2],["Hospital Room",2]],
+	"Name Something That Goes up and Down":[["Roller coaster",27],["Airplane",21],["Thermometer/temperature",16],["Elevator/escalator",10],["Yoyo",7],["Seesaws",5],["My mood",3],["Zippers",3]],
+	"What is the most stressful thing in the life a 25-year-old?":[["Love life",28],["Job",26],["Finances/debt",17],["Family/kids",13],["Starting a family",4],["Friends",3],["Clothes",2],["Roommate",2]],
+	"[G] Name a reason you might be late for work.":[["Hangover",43],["Woke up/left late",26],["Car trouble/accident",11],["Bus/train delay",10],["Sick/medical emergency",8]],
+	"At your job, out of the 60 minutes in each hour, how many do you spend doing actual work?":[["45 minutes",30],["30 minutes",28],["50 minutes",16],["0 minutes",12],["15 minutes",6],["10 minutes",5],["60 minutes",4]],
+	"Most Popular HIll Stations in India":[["Leh Ladakh",15],["Nainital",13],["Manali",12],["Mussoorie",11],["Gulmarg",11],["Darjeeling",10],["Gangtok",9], ["Shimla",9]],
+	"[G] Name the most annoying tool you have to work with in gTech":[["Smartsheets",73],["Cases",15],["Abacus",6],["Salesforce",6]],
+	"[G] Name something you’d be happy to hear from your manager, but would hate to hear from a law enforcement officer.":[["Do you know how fast you were going?",36],["I need you to come with me for 1:1.",20],["You created a huge impact.",16],["I’m very aware of what you’ve been doing.",16],["You’ll be here for a long time.",12]],
+	"Name Something People Complain the most about":[["Spouse",20],["In-laws/Relatives",17],["Kids",16],["Friends",12],["Job",11],["Politics",8],["Money",5],["Weather",4], ["Neighbours",3]],
+	"[G] Name something you use to help you write your self-assessment.":[["Alcohol",42],["Snippets",18],["Critique",13],["Google Drive",8],["Memegen",6],["Panic",5],["Deadlines",4],["Music",4]],
+	"[G] Name something that Googlers struggle with in the real world more than non-Googlers.":[["Cooking",35],["Paying for things",27],["Socializing",18],["Dealing with less smart people",13],["Disconnecting from work",7]],
+	"Who was the most popular character on the sitcom Friends?":[["Rachel",19],["Joey",17],["Ross",16],["Chandler",16],["Monica",14],["Phoebe",10],["Gunther",3]],
+}
